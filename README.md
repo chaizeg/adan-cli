@@ -4,7 +4,7 @@ This command line interface allows you to see the prayer times for today in your
 
 ## Installation
 
-**Run**
+**Install**
 
 ```shell
 $ npm link
