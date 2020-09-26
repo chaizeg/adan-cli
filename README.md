@@ -18,7 +18,7 @@ adan
 This is an interactive CLI; so It will ask you for the name of your city and accordingly show you a table of today's prayer times. 
 
 
-![Standings](https://raw.githubusercontent.com/chaizeg/adan-cli/master/assets/img/adan-cli.png)
+![Standings](https://raw.githubusercontent.com/chaizeg/adan-cli/master/assets/img/adan.png)
 
 ## License
 
