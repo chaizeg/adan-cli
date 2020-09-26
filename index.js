@@ -12,7 +12,7 @@ function registerCity(){
   do{
     city = readlineSync.question('Where do you live? ');
   }while(city=="");
-  console.log(`Alright so you live in ${city}. Looking up prayer times in ${city}..\n\n\n`);
+  console.log(`Looking up prayer times in ${city}..\n\n\n`);
   config.CITY = city;
   config.API_URL += "&city="+config.CITY;
 };
