@@ -22,4 +22,4 @@ This is an interactive CLI; so It will ask you for the name of your city and acc
 
 ## License
 
-[MIT](https://github.com/chaizeg/adan-cli/blob/master/LICENSE) © chaizeg
+[GNU General Public License v3.0](https://github.com/chaizeg/adan-cli/blob/master/LICENSE) © chaizeg
