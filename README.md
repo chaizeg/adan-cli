@@ -7,7 +7,7 @@ This command line interface allows you to see the prayer times for today in your
 **Run**
 
 ```shell
-$ npm install -g adan
+$ npm link
 ```
 
 ## Usage
